@@ -1,0 +1,17 @@
+node_modules
+dist
+.git
+.env
+.env.local
+*.log
+*.md
+.vscode
+.idea
+coverage
+.DS_Store
+*.test.ts
+*.test.tsx
+test-*.sh
+test-*.py
+*.pyc
+__pycache__
